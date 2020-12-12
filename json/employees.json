@@ -1,0 +1,167 @@
+[
+    {
+        "id": 0,
+        "name": "Tracy",
+        "isManager": true
+    },
+    {
+        "id": 1,
+        "name": "Cindy",
+        "isManager": true
+    },
+    {
+        "id": 2,
+        "name": "高代君",
+        "isManager": false
+    },
+    {
+        "id": 3,
+        "name": "Mark段",
+        "isManager": false
+    },
+    {
+        "id": 4,
+        "name": "孟嘉琪",
+        "isManager": false
+    },
+    {
+        "id": 5,
+        "name": "高卓雅",
+        "isManager": false
+    },
+    {
+        "id": 6,
+        "name": "赵佳琪",
+        "isManager": false
+    },
+    {
+        "id": 7,
+        "name": "陈荣",
+        "isManager": false
+    },
+    {
+        "id": 8,
+        "name": "奉霞",
+        "isManager": false
+    },
+    {
+        "id": 10,
+        "name": "张馨予",
+        "isManager": false
+    },
+    {
+        "id": 11,
+        "name": "褚利亚",
+        "isManager": false
+    },
+    {
+        "id": 12,
+        "name": "王桂丽",
+        "isManager": false
+    },
+    {
+        "id": 13,
+        "name": "张芯语",
+        "isManager": false
+    },
+    {
+        "id": 14,
+        "name": "佟蕊",
+        "isManager": false
+    },
+    {
+        "id": 15,
+        "name": "张虎",
+        "isManager": false
+    },
+    {
+        "id": 16,
+        "name": "苏丽念",
+        "isManager": false
+    },
+    {
+        "id": 17,
+        "name": "王红",
+        "isManager": false
+    },
+    {
+        "id": 18,
+        "name": "刘萍",
+        "isManager": false
+    },
+    {
+        "id": 19,
+        "name": "贺静",
+        "isManager": false
+    },
+    {
+        "id": 20,
+        "name": "郭晓",
+        "isManager": false
+    },
+    {
+        "id": 21,
+        "name": "Anna",
+        "isManager": false
+    },
+    {
+        "id": 22,
+        "name": "胡谦",
+        "isManager": false
+    },
+    {
+        "id": 23,
+        "name": "蔡嘉隆",
+        "isManager": false
+    },
+    {
+        "id": 24,
+        "name": "黄晓泉",
+        "isManager": false
+    },
+    {
+        "id": 25,
+        "name": "Maria",
+        "isManager": false
+    },
+    {
+        "id": 27,
+        "name": "郭姐",
+        "isManager": false
+    },
+    {
+        "id": 28,
+        "name": "张秀英",
+        "isManager": false
+    },
+    {
+        "id": 29,
+        "name": "郭燕蕾",
+        "isManager": false
+    },
+    {
+        "id": 30,
+        "name": "董海",
+        "isManager": false
+    },
+    {
+        "id": 31,
+        "name": "Angi",
+        "isManager": false
+    },
+    {
+        "id": 32,
+        "name": "文姐",
+        "isManager": false
+    },
+    {
+        "id": 33,
+        "name": "刘冬雷",
+        "isManager": false
+    },
+    {
+        "id": 34,
+        "name": "Sash",
+        "isManager": false
+    }
+]
